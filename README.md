@@ -4,7 +4,7 @@
 * 2004年,那时最棒的 java 开发软件还是 JBuilder x.x
 * 2004年,那时 jdk 的版本还是 V1.2
 * 2004年,那时总想钢琴的脚踏板怎么用键盘模拟
-* 2004年,那时候有个牛X的 midi 电脑钢琴叫 VOS
+* 2004年,那时有个牛X的 midi 电脑钢琴叫 VOS,EOP(EveryOne Piano)还没有上线
 * 2004年,那时还没有 midi '迷笛' 音乐节
 ## 安装 / install
     1.随便一个版本大于 V1.2 的 jdk
@@ -16,3 +16,5 @@
 * ` 键左上角,BackSpace 键右上角,控制当前键盘区域位置
 * 23456789 wertyuio sdfghjkl xcvbnm,. 对应表示音符 12344567,适应食指 F J 位置,中间4的位置左右手都可按
 * Esc 表示退出 
+## 版本打包 / Version Release
+* V1.0版就先把class文件打包放在一起吧,容易运行.
