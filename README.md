@@ -13,6 +13,6 @@
     java JavaMusicianSimulator
 ## 说明 / man
 * up/down/left/right 上下左右控制 midi 的排号和乐器号
-* <`> 键左上角,<BackSpace> 键右上角,控制当前键盘区域位置
-* 23456789 wertyuio sdfghjkl xcvbnm,. 对应表示音符 12344567,适应食指<F><J>位置,中间4的位置左右手都可按
-* <Esc> 表示退出 
+* ` 键左上角,BackSpace 键右上角,控制当前键盘区域位置
+* 23456789 wertyuio sdfghjkl xcvbnm,. 对应表示音符 12344567,适应食指 F J 位置,中间4的位置左右手都可按
+* Esc 表示退出 
