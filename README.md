@@ -7,6 +7,11 @@
 * 2004年,那时还没有 midi '迷笛'音乐节
 ## 安装 / install
     1.随便一个版本大于 V1.2 的 jdk
-    2.文件夹 com 是当时用 JBuilder 时处理 GUI 的包
+    2.文件夹 com 是当时用 JBuilder 时处理 GUI 的包,运行时记得要引用
 ## 运行 / run
     java JavaMusicianSimulator
+## 说明 / man
+* up/down/left/right 控制 midi 的排号和乐器号
+* <`> 键左上角,<BackSpace> 键右上角,控制当前键盘区域位置
+* 23456789 wertyuio sdfghjkl xcvbnm,. 对应表示音符 12344567
+* <Esc> 表示退出 
