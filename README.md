@@ -7,10 +7,10 @@
 * 2004年,那时有个牛X的 midi 电脑钢琴叫 VOS,EOP(EveryOne Piano)还没有上线
 * 2004年,那时还没有 midi '迷笛' 音乐节
 ## 安装 / install
-1.随便一个版本大于 V1.2 的 jdk
-2.文件夹 com 是当时用 JBuilder 时处理 GUI 的包,运行时记得要引用
-3.在 windows 运行需要安装合适的声卡驱动
-4.可直接下载 [release](https://github.com/whyyygh/JavaMidiPiano/releases)
+** 1.随便一个版本大于 V1.2 的 jdk
+** 2.文件夹 com 是当时用 JBuilder 时处理 GUI 的包,运行时记得要引用
+** 3.在 windows 运行需要安装合适的声卡驱动
+** 4.可直接下载 [release](https://github.com/whyyygh/JavaMidiPiano/releases)
 ## 运行 / run
     java JavaMusicianSimulator
 ## 说明 / man
