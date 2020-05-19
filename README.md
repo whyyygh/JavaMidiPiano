@@ -18,6 +18,7 @@
 * up/down/left/right 上下左右控制 midi 的排号和乐器号
 * ` 键左上角,BackSpace 键右上角,控制当前键盘区域位置
 * 23456789 wertyuio sdfghjkl xcvbnm,. 对应表示音符 12344567,适应食指 F J 位置,中间4的位置左右手都可按
+* 不知道怎么按黑键吧! 按 shift + 相对的白键
 * Esc 表示退出 
 ## 版本打包 / Version Release
 * V1.0版就先把class文件打包放在一起吧,容易运行.
