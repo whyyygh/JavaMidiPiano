@@ -1,4 +1,5 @@
 # Java Midi Piano
+[](https://github.com/whyyygh/JavaMidiPiano/blob/master/ScreenShot/v1.png)
 大学时用 java 写的 midi 模拟钢琴键盘,致敬大学时代.
 * This project since 2004.
 * 2004年,那时最棒的 java 开发软件还是 JBuilder x.x
